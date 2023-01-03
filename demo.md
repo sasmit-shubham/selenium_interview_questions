@@ -1,5 +1,8 @@
 # Test Automation Questions
 
+[![hackmd-github-sync-badge](https://hackmd.io/63f1w72WTi6JzHh-2oqqUA/badge)](https://hackmd.io/63f1w72WTi6JzHh-2oqqUA)
+
+
 1. How many types of webdriver API are available in Selnium
 * choromeDriver
 * firefoxDriver
